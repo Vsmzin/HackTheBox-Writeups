@@ -1,4 +1,4 @@
-# Table of contents
+# Challs
 
 * [Spellbound Servants](https://github.com/Vsmzin/HackTheBox-Writeups/blob/main/HackTheBoo2023-Practice/Web/Spellbound%20Servants.Md)
 * [SpookTastic](https://github.com/Vsmzin/HackTheBox-Writeups/blob/main/HackTheBoo2023-Practice/Web/spooktastic.md)
